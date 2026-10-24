@@ -1,42 +1,42 @@
-# NYC Weather Log — Snapshot: 2026-10-23 5:44 PM (America/New_York, local time)
+# NYC Weather Log — Snapshot: 2026-10-24 3:43 PM (America/New_York, local time)
 
-- **Local timestamp:** 10/23/2026, 5:44 PM (local time)
+- **Local timestamp:** 10/24/2026, 3:43 PM (local time)
 - **Observation station:** KNYC — New York City, Central Park (elevation 154 ft; 0.5 miles from 40.7831, -73.9712)
-- **Observation time:** 10/23/2026, 4:51 PM (local time) — 53m ago
+- **Observation time:** 10/24/2026, 12:51 PM (local time) — 2h 52m ago
 
 ## Conditions (exactly as reported by KNYC)
 
-- **Temperature:** 57.0°F (13.9°C)
+- **Temperature:** 57.9°F (14.4°C)
 - **Conditions:** Clear
-- **Humidity:** 33%
+- **Humidity:** 40%
 - **Wind:** 0 mph from 0°
-- **Pressure:** 30.38 inHg
+- **Pressure:** 30.58 inHg
 - **Visibility:** 10.0 miles
 
 ## Alert status
 
 **No active weather alerts found for 40.7831, -73.9712.**
 
-## 12-Hour Hourly Forecast (Updated: 10/23/2026, 3:01 PM local time)
+## 12-Hour Hourly Forecast (Updated: 10/24/2026, 2:23 PM local time)
 
 | Local Time | Temperature | Conditions |
 |---|---|---|
-| Fri, Oct 23, 2026, 4 PM | 60°F (15.6°C) | Sunny |
-| Fri, Oct 23, 2026, 5 PM | 59°F (15.0°C) | Sunny |
-| Fri, Oct 23, 2026, 6 PM | 57°F (13.9°C) | Clear |
-| Fri, Oct 23, 2026, 7 PM | 56°F (13.3°C) | Clear |
-| Fri, Oct 23, 2026, 8 PM | 53°F (11.7°C) | Clear |
-| Fri, Oct 23, 2026, 9 PM | 54°F (12.2°C) | Mostly Clear |
-| Fri, Oct 23, 2026, 10 PM | 53°F (11.7°C) | Mostly Clear |
-| Fri, Oct 23, 2026, 11 PM | 51°F (10.6°C) | Mostly Clear |
-| Sat, Oct 24, 2026, 12 AM | 50°F (10.0°C) | Mostly Clear |
-| Sat, Oct 24, 2026, 1 AM | 47°F (8.3°C) | Mostly Clear |
-| Sat, Oct 24, 2026, 2 AM | 47°F (8.3°C) | Partly Cloudy |
-| Sat, Oct 24, 2026, 3 AM | 46°F (7.8°C) | Partly Cloudy |
+| Sat, Oct 24, 2026, 3 PM | 62°F (16.7°C) | Sunny |
+| Sat, Oct 24, 2026, 4 PM | 62°F (16.7°C) | Sunny |
+| Sat, Oct 24, 2026, 5 PM | 62°F (16.7°C) | Sunny |
+| Sat, Oct 24, 2026, 6 PM | 61°F (16.1°C) | Mostly Clear |
+| Sat, Oct 24, 2026, 7 PM | 59°F (15.0°C) | Mostly Clear |
+| Sat, Oct 24, 2026, 8 PM | 57°F (13.9°C) | Mostly Clear |
+| Sat, Oct 24, 2026, 9 PM | 55°F (12.8°C) | Mostly Clear |
+| Sat, Oct 24, 2026, 10 PM | 54°F (12.2°C) | Clear |
+| Sat, Oct 24, 2026, 11 PM | 53°F (11.7°C) | Clear |
+| Sun, Oct 25, 2026, 12 AM | 52°F (11.1°C) | Clear |
+| Sun, Oct 25, 2026, 1 AM | 50°F (10.0°C) | Clear |
+| Sun, Oct 25, 2026, 2 AM | 49°F (9.4°C) | Clear |
 
 ## Precipitation outlook (next 12 hours)
 
-No precipitation forecast in the next 12 hours: sunny early evening giving way to clear then mostly clear overnight, turning partly cloudy after 2 AM, with no rain or snow indicated in any hourly period.
+No precipitation forecast in the next 12 hours: sunny through early evening, then clear and mostly clear overnight with no rain or snow indicated in any hourly period.
 
 ## Data provenance
 
