@@ -2,9 +2,9 @@
 
 ## Header (audit record)
 
-- **Local timestamp:** 10/30/2026, 2:34 PM (local time)
+- **Local timestamp:** 10/30/2026, 2:35 PM (local time)
 - **Observation station:** KNYC
-- **Observed at (as reported):** 10/30/2026, 1:58 PM (local time) - 36m ago
+- **Observed at (as reported):** 10/30/2026, 1:58 PM (local time) - 37m ago
 - **Conditions (exactly as reported):** Mostly Clear
 - **Alert status (as reported):** No active weather alerts found for 40.7831,-73.9712.
 - **Precipitation outlook (next 12 hours, one line):** No precipitation expected — the hourly forecast shows Sunny, Clear, Mostly Clear, and Partly Cloudy for all 12 hours with no rain or snow indicated.
@@ -36,5 +36,5 @@
 ## Data Provenance
 
 - Location queried: 40.7831, -73.9712 (Manhattan)
-- Current conditions, alerts, and hourly forecast retrieved live at 10/30/2026, 2:34 PM (local time) via the weather service.
+- Current conditions, alerts, and hourly forecast retrieved live at 10/30/2026, 2:35 PM (local time) via the weather service.
 - All values reported exactly as returned; nothing was assumed, rounded, or altered.
