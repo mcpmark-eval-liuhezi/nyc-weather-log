@@ -3,7 +3,7 @@
 **Local timestamp:** 10/30/2026, 2:37 PM (local time)
 **Observation station:** KNYC
 **Alerting status:** No active weather alerts found for 40.7128, -74.0060.
-**Precipitation outlook (next 12 hours):** No precipitation expected — the hourly forecast is sunny through 5 PM, then transitions to mostly clear/clear/partly cloudy; no rain or storm巴巴bar conditions indicated in any of the 12 hourly periods.
+**Precipitation outlook (next 12 hours):** No precipitation expected — the hourly forecast is sunny through 5 PM, then transitions to mostly clear/clear/partly cloudy; no rain or severe weather conditions indicated in any of the 12 hourly periods.
 
 ## Current Conditions (as reported)
 
