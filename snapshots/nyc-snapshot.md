@@ -2,14 +2,14 @@
 
 ## Header (audit record)
 
-- **Local timestamp:** 11/2/2026, 12:59 AM (local time)
+- **Local timestamp:** 11/2/2026, 1:01 AM (local time)
 - **Observation station:** KNYC — New York City, Central Park (elevation 154 ft, 0.5 miles from 40.7831, -73.9712)
-- **Observed at (as reported):** 11/1/2026, 11:51 PM (local time) - 1h 8m ago
+- **Observed at (as reported):** 11/1/2026, 11:51 PM (local time) - 1h 10m ago
 - **Conditions (exactly as reported):** Clear
 - **Wind (exactly as reported):** 17 mph from 250°
 - **Pressure (exactly as reported):** 30.46 inHg
 - **Visibility (exactly as reported):** 10.0 miles
-- **Alert status (as reported):** No active weather alerts found for 40.7831,-73.9712.
+- **Alert status (as reported):** Weather API error: 503 Service Unavailable (both coordinate and state-code alert queries failed); no alert data retrievable at this time.
 - **Precipitation outlook (next 12 hours, one line):** No precipitation expected — all 12 hours show 1% rain with Mostly Clear, Partly Cloudy, and Mostly Sunny conditions.
 
 ## Current Conditions (exactly as reported)
@@ -37,5 +37,6 @@
 ## Data Provenance
 
 - Location queried: 40.7831, -73.9712 (Manhattan)
-- Current conditions, alerts, and hourly forecast retrieved live at 11/2/2026, 12:59 AM (local time) via the weather service.
+- Current conditions, alerts, and hourly forecast retrieved live at 11/2/2026, 1:01 AM (local time) via the weather service.
+- Alert check: 503 Service Unavailable returned for both 40.7831,-73.9712 and NY; no alert data available.
 - All values reported exactly as returned; nothing was assumed, rounded, or altered.
