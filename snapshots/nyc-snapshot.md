@@ -2,9 +2,9 @@
 
 ## Header (audit record)
 
-- **Local timestamp:** 11/2/2026, 1:04 AM (local time)
-- **Observation station:** KNYC — New York City, Central Park (elevation 154 ft, 0.5 miles from 40.7831, -73.9712)
-- **Observed at (as reported):** 11/1/2026, 11:51 PM (local time) - 1h 13m ago
+- **Local timestamp:** 11/2/2026, 1:05 AM (local time)
+- **Observation station:** KNYC
+- **Observed at (as reported):** 11/1/2026, 11:51 PM (local time) - 1h 14m ago
 - **Conditions (exactly as reported):** Clear
 - **Wind (exactly as reported):** 17 mph from 250°
 - **Pressure (exactly as reported):** 30.46 inHg
@@ -37,6 +37,6 @@
 ## Data Provenance
 
 - Location queried: 40.7831, -73.9712 (Manhattan)
-- Current conditions, alerts, and hourly forecast retrieved live at 11/2/2026, 1:04 AM (local time) via the weather service.
+- Current conditions, alerts, and hourly forecast retrieved live at 11/2/2026, 1:05 AM (local time) via the weather service.
 - Alert check: No active weather alerts found for 40.7831,-73.9712.
 - All values reported exactly as returned; nothing was assumed, rounded, or altered.
