@@ -9,6 +9,7 @@
 - **Wind (exactly as reported):** 17 mph from 250°
 - **Pressure (exactly as reported):** 30.46 inHg
 - **Visibility (exactly as reported):** 10.0 miles
+- **Temperature/Humidity:** Not reported in the current observation payload returned by the service.
 - **Alert status (as reported):** No active weather alerts found for 40.7831,-73.9712.
 - **Precipitation outlook (next 12 hours, one line):** No precipitation on the way — all 12 hours show 1% rain probability with Mostly Clear, Partly Cloudy, and Mostly Sunny conditions.
 
